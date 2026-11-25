@@ -1,0 +1,7 @@
+# Force the light theme so text stays dark on the light page background.
+[theme]
+base = "light"
+primaryColor = "#2563eb"
+backgroundColor = "#f5f7fb"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#000000"

@@ -1,0 +1,2 @@
+Backend Engineer
+We need a Python developer with FastAPI, PostgreSQL, Docker and Kubernetes experience. Knowledge of AWS and Terraform is a plus. Strong communication skills and teamwork are valued.
